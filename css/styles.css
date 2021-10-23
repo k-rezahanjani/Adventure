@@ -1,0 +1,28 @@
+*{margin:0}
+body{background-color:black!important;text-align:center!important;color:white!important}
+.bgColor{background-color: #414144 !important;}
+html {scroll-behavior: smooth}
+h1{color:#fff;font-family:'Shippori Mincho B1-Extra-bold',serif;font-size:5.5rem!important}
+h3{font-family:'PT Serif',serif;font-size:2.2rem!important}
+p{font-family:'Shippori Mincho B1-Extra-bold',serif}
+.navbar{padding:3% 0!important}
+.sub-title{color:#fff;margin-top:3%;font-family:'Shippori Mincho B1-Extra-bold',serif;font-size:1.5rem}
+#title{background-image:url(../images/header.jpg);height:100vh;background-size:cover;background-position:center;background-repeat:no-repeat}
+.nav-item{margin:0 18px;color:#fff}
+.title{padding:7% 0}
+.explore-container{width:40%!important;padding:2% 5%}
+.explore-sub{padding-top:3%;line-height:1.5}
+.explore-img{width:95%;padding:5% 0}
+.img-pos{position:relative;text-align:center}
+.pin-text{position:absolute;top:70%;left:50%;transform:translate(-50%,-50%)}
+.sub-pin-text{position:absolute;top:90%;left:50%;transform:translate(-50%,-50%)}
+.link-box{padding:3% 0}
+#journal{padding:2% 7%}
+.journal-img{width:95%;padding:3% 0}
+#footer{background-image:url(../images/Footer.jpg);height:70vh;background-position:center;background-repeat:no-repeat;background-size:cover;padding:7% 15%;position:relative}
+.social-icon{margin:20px 10px;font-size:20px}
+.footer-container{position:absolute;bottom:0}
+.contact-link{text-decoration:none;color:#000;margin-top:50px}
+.footer-txt{color:#000}
+@media (max-width:500px){.title-text{font-size:4.5rem!important}#footer-container{position:absolute;bottom:0;transform:translate(-15%,-15%)}.contact-link{color:#fff}.journal-img{width:85%;padding:3% 0}.explore-img{width:90%;padding:5% 0}}
+.huge{font-size:40px!important;color:#fff}
